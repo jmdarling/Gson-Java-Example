@@ -1,0 +1,12 @@
+{
+    "people": [
+        {
+            "name": "YOLO Swaggins",
+            "age": 21
+        },
+        {
+            "name": "Swagrid Giant",
+            "age": 4
+        }
+    ]
+}
